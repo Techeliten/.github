@@ -5,6 +5,9 @@ Velkommen til **Techeliten** - Fremtiden for AI-investeringer
 ## 🌟 Om oss
 Techeliten er en ledende organisasjon dedikert til å revolusjonere måten vi investerer i AI-teknologi. Vi kombinerer banebrytende forskning med innovativ investeringsstrategi for å forme fremtiden.
 
+## 🖥️ Nettside
+Se vår hjemmeside: [https://techeliten.github.io/homepage](https://techeliten.github.io/homepage/)
+
 ## 📈 Vårt Mål
 Vårt mål er å være i forkant av AI-revolusjonen ved å identifisere og investere i de mest lovende teknologiene og selskapene. Vi tror på kraften i AI til å transformere alle bransjer og skape uendelige muligheter.
 
